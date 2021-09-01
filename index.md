@@ -10,15 +10,12 @@ Harbin, 150001, China
 
 ---
 
-### PhD student in Mechanical Engineering
-
 ### Master Degree in Mechanical Engineering
 
 **Supervisor: Professor Lijun Zhao**  
 **State Key Laboratory of Robotics and System**  
 **Harbin Institute of Technology**  
 *Sep.2019 - Jul.2021*  
-
 
 ### Bachelor degree in Mechanical Engineering
 
