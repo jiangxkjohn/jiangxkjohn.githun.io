@@ -12,25 +12,19 @@ Harbin, 150001, China
 
 ### PhD student in Mechanical Engineering
 
-**Supervisor:  Dr. Ketao Zhang, Prof. Kaspar Althoefer**  
-**Centre for Advanced Robotics**  
-**Queen Mary University of London**  
-*Sept.2021 - Present*  
-
-
 ### Master Degree in Mechanical Engineering
 
 **Supervisor: Professor Lijun Zhao**  
 **State Key Laboratory of Robotics and System**  
 **Harbin Institute of Technology**  
-*Sept.2019 - Present*  
+*Sep.2019 - Jul.2021*  
 
 
 ### Bachelor degree in Mechanical Engineering
 
 Outstanding Graduate    
 **Harbin Institute of Technology**  
-*Sept.2015 - Jun.2019*  
+*Sep.2015 - Jun.2019*  
 
 ## Project & Competition
 
@@ -77,13 +71,13 @@ Cooperated with **China Southern Power Grid Company**
 * GuangHua Scholarship (**10%**), *2017*
 * SMC Scholarship, HIT (**15%**), *2016*
 
-## Publication & Patent
+## Publication
 
 ---
 
 * Zhao L., Liu Y., **Jiang X.**, Wang K., Zhou Z. (2019) Indoor Environment RGB-DT Mapping for Security Mobile Robots. In: Yu H., Liu J., Liu L., Ju Z., Liu Y., Zhou D. (eds) Intelligent Robotics and Applications. ICIRA 2019. Lecture Notes in Computer Science, vol 11743. Springer, Cham.
-* A Target Detection Method for Transmission Line Inspection Robot. (this article is submitting)
-* The invention relates to the structure of a negative pressure sprinkler head washer with an integrated negative pressure device (this patent is applying)
+* Zhao, Lijun; Liu, Yu; Jiang, Xinkai; Wang, Ke; Zhou, Zigeng. (2019). Indoor Environment
+RGB-DT Mapping for Security Mobile Robots. 10.1007/978-3-030-27538-9 12.
 
 ## Skill
 
